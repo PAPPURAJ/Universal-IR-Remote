@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, questions, or feedback:
 - Visit: [pappuraj.com](https://pappuraj.com)
 - Open an issue on GitHub
-- Contact: [Your contact information]
+- Contact: me@pappuraj.com
 
 ---
 
